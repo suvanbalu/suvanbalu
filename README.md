@@ -1,4 +1,4 @@
-### Hello Folks <div class="tenor-gif-embed" data-postid="16971896" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/party-confetti-celebration-falling-shapes-gif-16971896">Party Confetti Sticker</a>from <a href="https://tenor.com/search/party-stickers">Party Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+### Hello Folks <img src="https://raw.githubusercontent.com/suvanbalu/suvanbalu/master/wave.gif" width="30px">
 
 <!--
 **suvanbalu/suvanbalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
