@@ -28,7 +28,7 @@
 </p>
 <p>
 <a href="https://github.com/suvanbalu/suvanbalu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvanbalu&show_icons=true&hide=jupyter notebook&bg_color=30,4568dc,b06ab3&title_color=fff&text_color=fff&icon_color=fff" border_radius = 5px />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvanbalu&show_icons=true&bg_color=30,4568dc,b06ab3&title_color=fff&text_color=fff&icon_color=fff" border_radius = 5px />
 </a>
 </p>
 
