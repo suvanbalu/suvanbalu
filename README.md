@@ -11,3 +11,4 @@
 - 💬 Ask me about Competitive programming 
 - ⚡ Fun fact: **Programmers count from 0**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
