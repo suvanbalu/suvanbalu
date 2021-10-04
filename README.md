@@ -1,4 +1,4 @@
-### Hello Folks <img src="https://raw.githubusercontent.com/suvanbalu/suvanbalu/master/wave.gif" width="30px">
+## Hello,Geeks! <img src="https://raw.githubusercontent.com/suvanbalu/suvanbalu/master/wave.gif" width="30px">
 
 <!--
 **suvanbalu/suvanbalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,4 +11,14 @@
 - 💬 Ask me about Competitive programming 
 - ⚡ Fun fact: **Programmers count from 0**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+## GitHub Stats
+<a href="https://github.com/suvanbalu/suvanbalu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suvanbalu&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/suvanbalu/suvanbalu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvanbalu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvanbalu&show_icons=true&theme=radical)
+
+
