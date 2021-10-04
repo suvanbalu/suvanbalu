@@ -17,8 +17,9 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-VScode-0078d7.svg?logo=visualstudiocode)
 ![](https://img.shields.io/badge/Tool-Jupyter-orange?style=flat&logo=Jupyter)
+![](https://img.shields.io/badge/Tool-VScode-0078d7.svg?logo=visualstudiocode)
+
 
 ## GitHub Stats
 <p>
