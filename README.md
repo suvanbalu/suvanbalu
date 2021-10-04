@@ -11,14 +11,13 @@
 - 💬 Ask me about Competitive programming 
 - ⚡ Fun fact: **Programmers count from 0**
 
-## Technologies and Tools
+## Languages and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-C%20programming-informational?style=flat&logo=C&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-Jupyter-orange?style=flat&logo=Jupyter)
-![](https://img.shields.io/badge/Tool-VScode-0078d7.svg?logo=visualstudiocode)
+![](https://img.shields.io/badge/Editor-VScode-0078d7.svg?logo=visualstudiocode)
 
 
 ## GitHub Stats
