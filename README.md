@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on Open Source Contribution
 - 🌱 I’m currently learning DSA and OOPS
 - 👯 I’m looking to collaborate on NLP and ML projects
-- 🤔 I’m looking for help with Solidity
 - 💬 Ask me about Competitive programming 
 - ⚡ Fun fact: **Programmers count from 0**
 
@@ -32,4 +31,8 @@
 </a>
 </p>
 
-
+## Get Connected
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[https://www.linkedin.com/in/suvanbalu/]
+![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)[https://www.hackerrank.com/suvanbalu]
+![](	https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)[https://www.kaggle.com/suvanbalu]
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)[https://www.instagram.com/suvan.balu/]
