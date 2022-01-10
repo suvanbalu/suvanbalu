@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning DSA and OOPS
 - 👯 I’m looking to collaborate on NLP and ML projects
 - 💬 Ask me about Competitive programming 
-- ⚡ Fact: **If it work do not touch it**
+- ⚡ Fact: **If it works do not touch IT**
 
 ## Skill-Set
 
