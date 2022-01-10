@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning DSA and OOPS
 - 👯 I’m looking to collaborate on NLP and ML projects
 - 💬 Ask me about Competitive programming 
-- ⚡ Fun fact: **Programmers count from 0**
+- ⚡ Fact: **If it work do not touch it**
 
 ## Skill-Set
 
