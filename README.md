@@ -4,8 +4,8 @@
 **suvanbalu/suvanbalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Machine Learning Projects
-- 🌱 I’m currently learning AWS and Docker
+- 🔭 I’m currently working on Data Analysis
+- 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Backend and ML projects
 - ⚡ Fact: **There are about 700 seperate programming language**
 
